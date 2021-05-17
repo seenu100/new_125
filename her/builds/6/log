@@ -1,0 +1,10 @@
+Started by upstream project "[8mha:////4ANFvyQLgEXWj83L/dDGr1vyl8FpE3m96xpSIuyKlFaEAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgZO/az8JP20IiN9AO5hSL++AAAA[0mfr2" build number [8mha:////4FQ+EKeQjnqCZNh2SzjKyEIynVKfmDVmk5pgZ8+OgA+aAAAAlR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBi79rPwk/bQiI30jAL+bVCW/AAAA[0m2
+originally caused by:
+ Started by user [8mha:////4Mw8kwOAagGBLFzqOuJ9l+GfAxHgASXLnMMY29qulb4uAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgYu/dLi1CL94qLUVACCK35zvwAAAA==[0mseenu
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/her
+[her] $ /bin/sh -xe /tmp/jenkins3061607313828414582.sh
++ javac HelloWorld.java
++ java HelloWorld
+Hello, World!
+Finished: SUCCESS
